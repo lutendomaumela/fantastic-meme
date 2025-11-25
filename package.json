@@ -1,7 +1,9 @@
 {
-  "name": "myjokecounter",
-  "version": "0.1.0",
+  "name": "house-of-laughter",
+  "version": "1.0.0",
   "private": true,
+  "description": "House of Laughter - Enjoy hilarious memes and jokes to brighten your day!",
+  "homepage": "https://house-of-laughter.vercel.app",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.7.1",
     "@testing-library/jest-dom": "^5.17.0",
@@ -35,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
