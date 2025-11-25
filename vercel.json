@@ -15,7 +15,6 @@
       "dest": "/build/$1"
     }
   ],
-  "buildCommand": "npm run build",
-  "outputDirectory": "build",
-  "installCommand": "npm install"
+  "installCommand": "npm install",
+  "buildCommand": "npm run build"
 }
