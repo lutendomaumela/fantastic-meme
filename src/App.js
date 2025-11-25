@@ -147,7 +147,7 @@ const App = () => {
     <>
       <div className="header-container">
         <header className={`header ${theme === 'light' ? 'light-mode' : 'dark-mode'}`}>
-          <h1>😂 House of Laughter 😂</h1>
+          <h1> House of Laughter </h1>
         </header>
         <p className="description">
           Welcome to the House of Laughter! Here, you'll find a treasure trove of hilarious memes and jokes 
